@@ -187,3 +187,10 @@ git pull --rebase origin main
 ```Plain Text
 git push -u origin main
 ```
+
+## 七、一些常用的Git操作
+```Plain Text
+git remote remove origin 删除当前的远程连接
+git remote -v 查看远程连接状态
+```
+
